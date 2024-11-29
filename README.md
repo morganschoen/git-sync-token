@@ -7,7 +7,7 @@ A GitHub Action for syncing between two independent repositories using **force p
 - Sync branches between two GitHub repositories
 - Sync branches to/from a remote repository
 - GitHub action can be triggered on a timer or on push
-- This Fork suppots using GitHub App temporary JWT tokens rather than SSH keys (see: peter-murray/workflow-application-token-action@v3)
+- This Fork supports using GitHub App temporary JWT tokens rather than SSH keys (see: peter-murray/workflow-application-token-action@v3)
 
 ## Usage
 
